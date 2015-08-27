@@ -3,3 +3,6 @@
 .ipynb_checkpoints
 
 *.pyc
+
+# the title of the project directory according to the git tutorial
+my_project/
